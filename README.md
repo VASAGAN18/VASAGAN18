@@ -1,4 +1,2 @@
 - 👋 Hi, I am VASAGAN BHASKAR,
-- 👀 I’m interested in Designing & Developing Software Applications.
-- Familiar with mobile and web app development with java, html, css, react and NodeJs.
-- Tools & Technologies Familiar with --> Adobe XD, Android Studio(java & XML).
+- 😇 I’m interested in Designing & Developing Software Applications, currently practicing on NodeJs and ReactJs.
